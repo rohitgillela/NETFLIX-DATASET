@@ -14,11 +14,11 @@ rating – Maturity rating (e.g., PG,R
 duration – Duration (in minutes or seasons)
 listed_in – Genres/categories
 description – Short description or summary
-#USES :
+# USES 
 Data analysis and storytelling
  Visualization dashboards (Tableau, Power BI, Matplotlib, etc.)
  Machine learning (e.g., recommendation systems, clustering, classification)
  Data cleaning and preprocessing exercises
  Educational projects and tutorials
- #TOOLS 
+ # TOOLS 
  EXCEL AND POWER BI
